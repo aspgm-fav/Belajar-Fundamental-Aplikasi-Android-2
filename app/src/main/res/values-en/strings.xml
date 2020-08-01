@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">Github User (UI/UX and API)</string>
+
+    <string name="search_hint">Search</string>
+    <string name="language">Language</string>
+    <string name="favorites">Favorite</string>
+
+    <string name="btn_add_favorite">Add to Favorite</string>
+    <string name="btn_remove_favorite">HRemove from Favorite</string>
+
+    <string name="no_repository_message">Nothing repositories</string>
+    <string name="no_follower_message">Not have followers</string>
+    <string name="no_following_message">No following yet</string>
+
+    <string name="tab_repository">Repositories</string>
+    <string name="tab_follower">Followers</string>
+    <string name="tab_following">Following</string>
+
+    <string name="progress_bar_message">Loading</string>
+    <string name="not_found_message">Not Found</string>
+    <string name="failed_load_message">Failed load data</string>
+
+    <string name="detail_username">Username</string>
+    <string name="detail_name">Name</string>
+    <string name="detail_company">Company</string>
+    <string name="detail_location">Location</string>
+    <string name="detail_repos">Repositories</string>
+    <string name="detail_followers">Followers</string>
+    <string name="detail_following">Following</string>
+
+</resources>

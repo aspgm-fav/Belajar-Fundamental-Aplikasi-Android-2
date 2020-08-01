@@ -1,0 +1,32 @@
+<resources>
+    <string name="token" translatable="false">d7da4ed6f31910f564aa19222c858083aecf5f01</string>
+
+    <string name="app_name">Github User (UI/UX dan API)</string>
+
+    <string name="search_hint">Cari</string>
+    <string name="language">Bahasa</string>
+    <string name="favorites">Favorit</string>
+
+    <string name="btn_add_favorite">Tambahkan ke Favorit</string>
+    <string name="btn_remove_favorite">Hapus dari Favorite</string>
+
+    <string name="no_repository_message">Belum ada repositori</string>
+    <string name="no_follower_message">Tidak memiliki pengikut</string>
+    <string name="no_following_message">Belum mengikuti siapapun</string>
+
+    <string name="tab_repository">Repositori</string>
+    <string name="tab_follower">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+
+    <string name="progress_bar_message">Memuat data</string>
+    <string name="not_found_message">Tidak dapat ditemukan</string>
+    <string name="failed_load_message">Gagal memuat data</string>
+
+    <string name="detail_username">Username</string>
+    <string name="detail_name">Nama</string>
+    <string name="detail_company">Perusahaan</string>
+    <string name="detail_location">Lokasi</string>
+    <string name="detail_repos">Repositori</string>
+    <string name="detail_followers">Pengikut</string>
+    <string name="detail_following">Mengikuti</string>
+</resources>
